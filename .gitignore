@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# demo.py embedding cache (regenerated on first run)
+corpus/.embcache.npz
+
 # C extensions
 *.so
 
